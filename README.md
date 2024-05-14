@@ -1,3 +1,5 @@
+# You have to add contant value of API_KEY, STAGING_URL, PROCESS_URL and STATUS_URL in the /utilities/constant.ts file.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
